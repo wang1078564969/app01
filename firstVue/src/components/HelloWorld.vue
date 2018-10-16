@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b>nihao</b>
+
   </div>
 </template>
 
